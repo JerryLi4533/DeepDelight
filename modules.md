@@ -117,4 +117,6 @@ GPT for private data retrieval:
 
 ## Additional Reading
 
-* Simplified explanation of GPT: https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/ 
+* Simplified explanation of GPT: https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/
+
+
